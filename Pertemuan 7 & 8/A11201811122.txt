@@ -1,3 +1,3 @@
-1. Tidak
-2. Tidak
-3. Iya
+1. Tidak (dari posisi idle karakter harus melalui walk dahulu baru bisa ke run)
+2. Tidak (jika dari posisi jump karakter harus melalui idle dulu baru bisa ke crunch)
+3. Iya (karana transisi sama-sama jongkok, akhiran crounch dan awalan crounch walk sama-sama jongkok)
