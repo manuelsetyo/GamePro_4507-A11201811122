@@ -1,8 +1,8 @@
 # Perang Galaxy
-NAMA     : MANUEL SETYO SAPUTRO SRIWIBOWO<br/>
-NIM      : A11.2018.11122__
-KELOMPOK : A11.4507__
-UTS      : GAME PROGRAMMING
+NAMA     : MANUEL SETYO SAPUTRO SRIWIBOWO <br/>
+NIM      : A11.2018.11122 <br/>
+KELOMPOK : A11.4507 <br/>
+UTS      : GAME PROGRAMMING <br/>
 
-Link Youtube :
+Link Youtube : <br/>
 https://youtu.be/r3uDisMArCM
