@@ -1,0 +1,10 @@
+NAMA     : MANUEL SETYO SAPUTRO SRIWIBOWO
+NIM      : A11.2018.11122
+KELOMPOK : A11.4507
+UAS      : GAME PROGRAMMING
+
+Link Youtube :
+Comingsoon
+
+Link GitHub :
+https://github.com/manuelsetyo/GamePro_4507-A11201811122/tree/master/UAS
