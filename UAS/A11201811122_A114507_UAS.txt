@@ -4,7 +4,7 @@ KELOMPOK : A11.4507
 UAS      : GAME PROGRAMMING
 
 Link Youtube :
-Comingsoon
+https://youtu.be/wcfmMMRIXIY
 
 Link GitHub :
 https://github.com/manuelsetyo/GamePro_4507-A11201811122/tree/master/UAS
